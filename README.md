@@ -120,49 +120,6 @@
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px></picture> GitHub Stats
 
-<details><summary><h3>🔥 Streak Stats</h3></summary>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danieduardo&theme=tokyonight_duo" alt="Danieduardo"/>
-</p>
-
-</details>
-
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
----
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Daniel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Danieduardo&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Danieduardo&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Danieduardo" height="230px"/>
-</p>
-
-</details>
-
-<details><summary><h3>⚡ Actividad Reciente en GitHub</h3></summary>
-
----
-
-[![Daniel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Danieduardo&theme=github)](https://github.com/Danieduardo)
-
-</details>
-
-<details><summary><h3>🏆 Trofeos de GitHub</h3></summary>
-
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Danieduardo&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Danieduardo"/>
-  </a>
-</p>
-
-</details>
 
 
